@@ -1,0 +1,12 @@
+﻿  App.cpp
+C:\Users\user\Desktop\Blackjack\Blackjack\App.cpp(7,12): error C2248: 'CommandFactory::CommandFactory': private 멤버('CommandFactory' 클래스에서 선언)에 액세스할 수 없습니다.
+  C:\Users\user\Desktop\Blackjack\Blackjack\CommandFactory.h(30,5):
+  'CommandFactory::CommandFactory' 선언을 참조하십시오.
+  C:\Users\user\Desktop\Blackjack\Blackjack\CommandFactory.h(12,7):
+  'CommandFactory' 선언을 참조하십시오.
+  
+  CommandFactory.cpp
+  main.cpp
+  ReplayCommand.cpp
+  UserScoreInfo.cpp
+  코드를 생성하고 있습니다...

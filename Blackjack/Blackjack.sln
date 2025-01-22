@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Blackjack", "Blackjack.vcxproj", "{F2555557-5220-4A4A-B4F2-DB8B1D91B4FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "솔루션 항목", "솔루션 항목", "{772B99F9-B632-4B1B-96BA-A775DB20EA4D}"
+	ProjectSection(SolutionItems) = preProject
+		users.txt = users.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2555557-5220-4A4A-B4F2-DB8B1D91B4FC}.Debug|x64.ActiveCfg = Debug|x64
+		{F2555557-5220-4A4A-B4F2-DB8B1D91B4FC}.Debug|x64.Build.0 = Debug|x64
+		{F2555557-5220-4A4A-B4F2-DB8B1D91B4FC}.Debug|x86.ActiveCfg = Debug|Win32
+		{F2555557-5220-4A4A-B4F2-DB8B1D91B4FC}.Debug|x86.Build.0 = Debug|Win32
+		{F2555557-5220-4A4A-B4F2-DB8B1D91B4FC}.Release|x64.ActiveCfg = Release|x64
+		{F2555557-5220-4A4A-B4F2-DB8B1D91B4FC}.Release|x64.Build.0 = Release|x64
+		{F2555557-5220-4A4A-B4F2-DB8B1D91B4FC}.Release|x86.ActiveCfg = Release|Win32
+		{F2555557-5220-4A4A-B4F2-DB8B1D91B4FC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCF2D55B-83FE-46E3-835C-EE869CC59651}
+	EndGlobalSection
+EndGlobal
